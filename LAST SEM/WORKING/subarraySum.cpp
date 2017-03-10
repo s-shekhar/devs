@@ -31,7 +31,9 @@ int main()
 
         else
         {
-            total -= arr[i];
+            total -= arr[i]; //remove the first element since we cannot form a sub array with that first element since usko liya
+				//to exeed he hota hai sum. Ex 5,4,2 so sum 6 kay liye 5+4>6 so 5 toh aa he nhi sakta since 
+				//5+4+2 will still be >6 so 5 hatana padega.
         }
 
     }
