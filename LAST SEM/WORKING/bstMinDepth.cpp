@@ -46,7 +46,6 @@ void inorder(bsnode ** temp)
 
 void minDepth()
 {
-    int count=0;
     queue <bsnode *> Q;
     Q.push(root);
     root -> depth = 0;
@@ -69,8 +68,6 @@ void minDepth()
         }
 
         Q.pop();
-        count++;
-
     }
 }
 
