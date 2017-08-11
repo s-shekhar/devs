@@ -1,0 +1,200 @@
+
+- [ ] 1. http://codeforces.com/problemset/problem/489/C Given Length and Sum ofDigits... : 1
+
+- [ ] 2. http://codeforces.com/problemset/problem/466/C Number of Ways : 4
+
+- [ ] 3. http://codeforces.com/problemset/problem/401/C Team : 4
+
+- [ ] 4. http://codeforces.com/problemset/problem/479/C Exams : 4
+
+- [ ] 5. http://codeforces.com/problemset/problem/455/A Boredom : 4
+
+- [ ] 6. http://codeforces.com/problemset/problem/478/C TableDecorations : 4
+
+- [ ] 7. http://codeforces.com/problemset/problem/268/C Beautiful Sets of Points : 4
+
+- [ ] 8. http://codeforces.com/problemset/problem/431/C k-Tree : 4
+
+- [ ] 9. http://codeforces.com/problemset/problem/441/C Valera and Tubes : 4
+
+- [ ] 10. http://codeforces.com/problemset/problem/486/C Palindrome Transformation : 4
+
+- [ ] 11. http://codeforces.com/problemset/problem/363/C Fixing Typos : 4
+
+- [ ] 12. http://codeforces.com/problemset/problem/490/C Hacking Cypher : 3
+
+- [ ] 13. http://codeforces.com/problemset/problem/463/C Gargari and Bishops : 5
+
+- [ ] 14. http://codeforces.com/problemset/problem/152/C Pocket Book : 4
+
+- [ ] 15. http://codeforces.com/problemset/problem/109/A Lucky Sum ofDigits : 3
+
+- [ ] 16. http://codeforces.com/problemset/problem/382/C Arithmetic Progression : 4
+
+- [ ] 17. http://codeforces.com/problemset/problem/388/A Fox and Box Accumulation : 3
+
+- [ ] 18. http://codeforces.com/problemset/problem/9/C Hexadecimal's Numbers : 2
+
+- [ ] 19. http://codeforces.com/problemset/problem/339/C Xenia and Weights : 4
+
+- [ ] 20. http://codeforces.com/problemset/problem/350/C Bombs : 4
+
+- [ ] 21. http://codeforces.com/problemset/problem/459/C Pashmak and Buses : 5
+
+- [ ] 22. http://codeforces.com/problemset/problem/220/A Little Elephant and Problem : 4
+
+- [ ] 23. http://codeforces.com/problemset/problem/377/A Maze : 4
+
+- [ ] 24. http://codeforces.com/problemset/problem/217/A Ice Skating : 3
+
+- [ ] 25. http://codeforces.com/problemset/problem/371/C Hamburgers : 4
+
+- [ ] 26. http://codeforces.com/problemset/problem/385/C Bear and Prime Numbers : 5
+
+- [ ] 27. http://codeforces.com/problemset/problem/137/C History : 4
+
+- [ ] 28. http://codeforces.com/problemset/problem/427/C Checkposts : 4
+
+- [ ] 29. http://codeforces.com/problemset/problem/414/A Mashmokh and Numbers : 3
+
+- [ ] 30. http://codeforces.com/problemset/problem/279/C Ladder : 4
+
+- [ ] 31. http://codeforces.com/problemset/problem/264/A Escape from Stones : 3
+
+- [ ] 32. http://codeforces.com/problemset/problem/149/C Division into Teams : 4
+
+- [ ] 33. http://codeforces.com/problemset/problem/225/C Barcode : 4
+
+- [ ] 34. http://codeforces.com/problemset/problem/18/C Stripe : 3
+
+- [ ] 35. http://codeforces.com/problemset/problem/348/A Mafia : 4
+
+- [ ] 36. http://codeforces.com/problemset/problem/283/A Cows and Sequence : 4
+
+- [ ] 37. http://codeforces.com/problemset/problem/231/C To Add or Not to Add : 4
+
+- [ ] 38. http://codeforces.com/problemset/problem/429/A Xor-tree : 3
+
+- [ ] 39. http://codeforces.com/problemset/problem/235/A LCM Challenge : 4
+
+- [ ] 40. http://codeforces.com/problemset/problem/343/A Rational Resistance : 4
+
+- [ ] 41. http://codeforces.com/problemset/problem/251/A Points on Line : 3
+
+- [ ] 42. http://codeforces.com/problemset/problem/464/A No to Palindromes! : 4
+
+- [ ] 43. http://codeforces.com/problemset/problem/424/C Magic Formulas : 4
+
+- [ ] 44. http://codeforces.com/problemset/problem/300/C Beautiful Numbers : 4
+
+- [ ] 45. http://codeforces.com/problemset/problem/337/C Quiz : 4
+
+- [ ] 46. http://codeforces.com/problemset/problem/135/A Replacement : 3
+
+- [ ] 47. http://codeforces.com/problemset/problem/354/A Vasya and Robot : 4
+
+- [ ] 48. http://codeforces.com/problemset/problem/474/C Captain Marmot : 4
+
+- [ ] 49. http://codeforces.com/problemset/problem/150/A Win or Freeze : 4
+
+- [ ] 50. http://codeforces.com/problemset/problem/364/A Matrix : 4
+
+- [ ] 51. http://codeforces.com/problemset/problem/53/C Little Frog : 2
+
+- [ ] 52. http://codeforces.com/problemset/problem/121/A Lucky Sum : 3
+
+- [ ] 53. http://codeforces.com/problemset/problem/487/A Fight the Monster : 4
+
+- [ ] 54. http://codeforces.com/problemset/problem/407/A Triangle : 4
+
+- [ ] 55. http://codeforces.com/problemset/problem/257/C View Angle : 4
+
+- [ ] 56. http://codeforces.com/problemset/problem/242/C King's Path : 4
+
+- [ ] 57. http://codeforces.com/problemset/problem/71/C Round Table Knights : 4
+
+- [ ] 58. http://codeforces.com/problemset/problem/329/A Purification : 4
+
+- [ ] 59. http://codeforces.com/problemset/problem/261/A Maxim andDiscounts : 3
+
+- [ ] 60. http://codeforces.com/problemset/problem/311/A The Closest Pair : 3
+
+- [ ] 61. http://codeforces.com/problemset/problem/375/A Divisible by Seven : 4
+
+- [ ] 62. http://codeforces.com/problemset/problem/154/A Hometask : 4
+
+- [ ] 63. http://codeforces.com/problemset/problem/204/A Little Elephant and Interval : 4
+
+- [ ] 64. http://codeforces.com/problemset/problem/107/A Dorm Water Supply : 3
+
+- [ ] 65. http://codeforces.com/problemset/problem/294/C Shaass and Lights : 5
+
+- [ ] 66. http://codeforces.com/problemset/problem/359/C Prime Number : 5
+
+- [ ] 67. http://codeforces.com/problemset/problem/243/A The Brand New Function : 4
+
+- [ ] 68. http://codeforces.com/problemset/problem/198/A About Bacteria : 4
+
+- [ ] 69. http://codeforces.com/problemset/problem/319/A MalekDance Club : 4
+
+- [ ] 70. http://codeforces.com/problemset/problem/358/C Dima and Containers : 5
+
+- [ ] 71. http://codeforces.com/problemset/problem/87/A Trains : 4
+
+- [ ] 72. http://codeforces.com/problemset/problem/255/C Almost Arithmetical Progression : 4
+
+- [ ] 73. http://codeforces.com/problemset/problem/91/A Newspaper Headline : 4
+
+- [ ] 74. http://codeforces.com/problemset/problem/374/C Inna andDima : 4
+
+- [ ] 75. http://codeforces.com/problemset/problem/216/C Hiring Staff : 5
+
+- [ ] 76. http://codeforces.com/problemset/problem/190/C STL : 4
+
+- [ ] 77. http://codeforces.com/problemset/problem/123/A Prime Permutation : 4
+
+- [ ] 78. http://codeforces.com/problemset/problem/14/C Four Segments : 5
+
+- [ ] 79. http://codeforces.com/problemset/problem/35/C Fire Again : 4
+
+- [ ] 80. http://codeforces.com/problemset/problem/266/C Below theDiagonal : 6
+
+- [ ] 81. http://codeforces.com/problemset/problem/29/C Mail Stamps : 4
+
+- [ ] 82. http://codeforces.com/problemset/problem/113/A Grammar Lessons : 4
+
+- [ ] 83. http://codeforces.com/problemset/problem/223/A Bracket Sequence : 4
+
+- [ ] 84. http://codeforces.com/problemset/problem/77/A Heroes : 4
+
+- [ ] 85. http://codeforces.com/problemset/problem/138/A Literature Lesson : 4
+
+- [ ] 86. http://codeforces.com/problemset/problem/222/C Reducing Fractions : 5
+
+- [ ] 87. http://codeforces.com/problemset/problem/213/A Game : 4
+
+- [ ] 88. http://codeforces.com/problemset/problem/193/A Cutting Figure : 4
+
+- [ ] 89. http://codeforces.com/problemset/problem/58/C Trees : 4
+
+- [ ] 90. http://codeforces.com/problemset/problem/95/A Hockey : 4
+
+- [ ] 91. http://codeforces.com/problemset/problem/31/C Schedule : 4
+
+- [ ] 92. http://codeforces.com/problemset/problem/280/A Rectangle Puzzle : 5
+
+- [ ] 93. http://codeforces.com/problemset/problem/49/C Disposition : 4
+
+- [ ] 94. http://codeforces.com/problemset/problem/32/C Flea : 4
+
+- [ ] 95. http://codeforces.com/problemset/problem/98/A Help Victoria the Wise : 4
+
+- [ ] 96. http://codeforces.com/problemset/problem/56/C Corporation Mail : 4
+
+- [ ] 97. http://codeforces.com/problemset/problem/182/C Optimal Sum : 5
+
+- [ ] 98. http://codeforces.com/problemset/problem/396/A On Number of Decompositions into Multipliers : 7
+
+- [ ] 99. http://codeforces.com/problemset/problem/392/A Blocked Points : 7
+
+- [ ] 100 http://codeforces.com/problemset/problem/47/C Crossword : 5
